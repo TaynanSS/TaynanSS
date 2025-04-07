@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Desenvolvedor apaixonado por tecnologia, com experiência em back-end e nocode. Trabalho com as ferramentas Python, Pycharm, SQL e Salesforce. Comecei minha trajetória aos 15 anos na área da tecnologia, acumulei experiência com suporte técnico e metodologias ágeis, como Kanban. Sempre em busca de conhecimentos e melhorias, participando de eventos e comunidades tech. Transformo ideias e soluções funcionais e responsivas.</p>
+<p align="left">Desenvolvedor apaixonado por tecnologia, com experiência em back-end e nocode. Trabalho com as ferramentas Python, Pycharm, SQL e Salesforce. Comecei minha trajetória aos 15 anos na área da tecnologia, acumulei experiência com suporte técnico e metodologias ágeis, como Kanban. Sempre em busca de conhecimentos e melhorias, participando de eventos e comunidades tech. Transformo ideias em soluções funcionais e responsivas.</p>
 
 ###
 
