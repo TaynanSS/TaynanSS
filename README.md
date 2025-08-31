@@ -53,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
 ###
@@ -61,9 +63,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaynanSS&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaynanSS&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaynanSS&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynanSS&layout=compact&langs_count=16&theme=gotham"/>
+<div>
 
 ###
