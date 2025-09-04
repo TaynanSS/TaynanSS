@@ -67,7 +67,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaynanSS&show_icons=true&theme=gotham&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynanSS&layout=compact&langs_count=17&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynanSS&layout=compact&langs_count=18&theme=gotham"/>
 <div>
 
 ###
